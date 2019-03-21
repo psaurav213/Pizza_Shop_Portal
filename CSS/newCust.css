@@ -1,0 +1,113 @@
+#tab1{
+	border: solid 1px #000000; 
+	height: 270px;
+	width: 505px;
+}
+#tab2{
+	border: solid 1px #000000; 
+	height: 20px;
+	width: 500px;
+	text-align: center;
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+}
+#tab3{
+	border: solid 1px #000000; 
+	height: 20px;
+	width: 150px;
+	text-align: center;
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float: left;
+}
+#tab4{
+	border: solid 1px #000000; 
+	height: 20px;
+	width: 340px;
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float:right;
+}
+#tab5{
+	border: solid 1px #000000; 
+	height: 65px;
+	width: 150;
+	text-align: center; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float:left;
+}
+#tab6{
+	border: solid 1px #000000; 
+	height: 65px;
+	width: 340;
+	text-align: left; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float: right;
+}
+#tab7{
+	border: solid 1px #000000; 
+	height: 30px;
+	width: 150;
+	text-align: center; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float:left;
+}
+#tab8{
+	border: solid 1px #000000; 
+	height: 30px;
+	width: 340;
+	text-align: left; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float: right;
+}
+#tab9{
+	border: solid 1px #000000; 
+	height: 45px;
+	width: 150;
+	text-align: center; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float:left;
+}
+#tab10{
+	border: solid 1px #000000; 
+	height: 45px;
+	width: 340;
+	text-align: left; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float: right;
+}
+#tab11{
+	border: solid 1px #000000; 
+	height: 65px;
+	width: 500px;
+	text-align: left; 
+	margin-top: 2px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding-top: 2px;
+	float: right;
+}

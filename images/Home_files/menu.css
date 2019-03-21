@@ -1,0 +1,49 @@
+#container{
+    width:85%;
+    min-height: 100%;
+    background-color: white;
+    position: relative;
+    left:16%;
+    top:60px;
+    overflow: scroll;
+}
+
+
+#menu{
+    width: 20%;
+    height: 70%;
+    top:10px;
+    left:-10px;
+    background-color: #323434;
+}
+
+#menu #menu_option{
+    background-color: #323434;
+    position: relative;
+    top:50px;
+    height: 100%;
+}
+
+#menu a{
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    text-decoration: none;
+    font-family: helvetica;
+    font-size:20;
+}
+
+#menu a:hover{
+    color: red;
+}
+
+#menu #avatar{
+    position: relative;
+    top:60px;
+    left:-50px;
+}
+
+#menu #checkout{
+    position: relative;
+    top:-180px;
+}
